@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @druidesse
-- 👀 I’m interested in kind of web everything.
+- 👀 I’m interested in kind of web everything. (and languages, writings)
 - 🌱 I’m currently learning php, nodejs, reactjs.
-- 😄 Pronouns: call me druidesse, not pronouns
+- 😄 Pronouns: call me druidesse, not pronouns.
 - ⚡ Fun fact: im a queer a bit but i dont want for you to know(?).
